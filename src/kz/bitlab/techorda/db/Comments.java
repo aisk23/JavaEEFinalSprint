@@ -4,7 +4,7 @@ public class Comments {
 
     int id;
     String comment;
-    String post_date;d
+    String post_date;
     int user_id;
     int news_id;
 
